@@ -1,3 +1,4 @@
+//metodo de newton raphson V 1.0
 #include "newton.h"
 #include "ui_newton.h"
 #include "math.h"
@@ -80,3 +81,4 @@ void newton::Borrar(){//se crea la funcion Borrar
     ui->Resultado->clear();
     ui->calcular->setEnabled(false);
 }
+//elaborado por Jose Alfredo Mendoza Mota,Gibran omar estrada gomez,Ana Karen Razo Francisco y jesus antonio herrera diaz
